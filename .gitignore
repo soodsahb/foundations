@@ -1,0 +1,7 @@
+.venv/
+models/
+titanic/
+titanic.zip
+*.csv
+.ipynb_checkpoints/
+__pycache__/
